@@ -1,1 +1,0 @@
-# Repositório referente aos scripts SQL do módulo algoritmos da my-beginning
